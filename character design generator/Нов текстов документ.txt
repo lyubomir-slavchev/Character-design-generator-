@@ -1,0 +1,7 @@
+Species- fox,rabbit,wolf,bear,cow,bull,frog,cat,dog,parrot,chamelion,human,sheep
+Roles - magician,fortune teller,guard,prince/ss,priest,adventurer,knight,celebrity,demon,angel
+Weapon	- daggers,axe,mallet,mace,sword,pistols,riffle,power,chopper knife,fans,wand,bow,bat
+Flaw - noicy,blunt,agressive,anxious,arogant,stuborn,calculating,careless,cold,cowardly,gloomy,nogging,narcicistic,obnoxious,pretentious,
+paranoid,selfish
+Palette - 3 cvqta - (red,blue,purple) (red,yellow,purple) (red,green,white) (red,black,white)
+ 
